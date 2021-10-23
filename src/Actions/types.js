@@ -1,0 +1,17 @@
+export const USER_REGISTER = "USER_REGISTERS";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILED = "LOGIN_FAILED";
+export const USER_LOGOUT = "USER_LOGOUT";
+
+export const INITIALIZE_RESUME = "INITIALIZE_RESUME";
+export const RESUME_SUCCESS = "RESUME_SUCCESS";
+export const RESUME_FAILED = "RESUME_FAILED";
+export const RESUME_CLEAR = "RESUME_CLEAR";
+
+export const INITIALIZE_SKILLS = "INITIALIZE_SKILLS";
+export const SKILLS_SUCCESS = "SKILLS_SUCCESS";
+export const SKILLS_FAILED = "SKILLS_FAILED";
+export const SKILLS_CLEAR = "SKILLS_CLEAR";
+
+export const IS_ADMIN = "IS_ADMIN";
+export const IS_NOT_ADMIN = "IS_NOT_ADMIN";
